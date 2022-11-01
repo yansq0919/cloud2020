@@ -19,7 +19,6 @@ import java.util.UUID;
 @Slf4j
 public class ImessageProviderImpl implements IMessageProvider {
 
-
     @Resource
     private MessageChannel output;  //消息发送管道
 
