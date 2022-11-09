@@ -33,6 +33,7 @@
       <module>cloudalibaba-provider-payment9002</module>
       <module>cloudalibaba-consumer-nacos-order83</module>
       <module>cloudalibaba-config-nacos-client3377</module>
+      <module>cloudalibaba-sentinel-service8401</module>
       <!--    <module>cloud-consumer-order80</module>-->
 <!--    <module>cloud-api-commons</module>-->
 <!--    &lt;!&ndash;      <module>cloud-eureka-server7001</module>&ndash;&gt;-->
